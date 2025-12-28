@@ -1,4 +1,4 @@
-create database ss01_btvn;
+create database bai3_btvn;
 use bai3_btvn;
 
 create table Class (
