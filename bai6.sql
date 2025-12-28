@@ -1,4 +1,4 @@
-create database xs2_btvn;
+create database bai6_btvn;
 use bai6_btvn;
 
 create table Class (
