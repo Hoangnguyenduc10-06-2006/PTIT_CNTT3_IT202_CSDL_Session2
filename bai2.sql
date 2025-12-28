@@ -1,4 +1,4 @@
-create database g2_btvn;
+create database bai2_btvn;
 use bai2_btvn;
 
 create table Student (
